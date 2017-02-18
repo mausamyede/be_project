@@ -1,0 +1,577 @@
+2016-10-26-India-New Zealand.txt
+Predicted EOI runs after 0 segments in real match: 203
+Predicted EOI runs after 1 segments in real match: 246
+Predicted EOI runs after 2 segments in real match: 279
+Predicted EOI runs after 3 segments in real match: 333
+Predicted EOI runs after 4 segments in real match: 288
+Predicted EOI runs after 5 segments in real match: 284
+Predicted EOI runs after 6 segments in real match: 291
+Predicted EOI runs after 7 segments in real match: 281
+Predicted EOI runs after 8 segments in real match: 256
+Predicted EOI runs after 9 segments in real match: 241
+team1 actual score 260.0
+Predicted EOI runs after 0 segments in real match: 257
+Predicted EOI runs after 1 segments in real match: 261
+Predicted EOI runs after 2 segments in real match: 261
+Predicted EOI runs after 3 segments in real match: 260
+Predicted EOI runs after 4 segments in real match: 260
+Predicted EOI runs after 5 segments in real match: 261
+Predicted EOI runs after 6 segments in real match: 249
+Predicted EOI runs after 7 segments in real match: 215
+Predicted EOI runs after 8 segments in real match: 217
+Predicted EOI runs after 9 segments in real match: 249
+team2 actual score 242.0
+---------------------------------------------------------------------------------------------------------------------------
+2016-10-16-India-New Zealand.txt
+Predicted EOI runs after 0 segments in real match: 203
+Predicted EOI runs after 1 segments in real match: 152
+Predicted EOI runs after 2 segments in real match: 197
+Predicted EOI runs after 3 segments in real match: 127
+Predicted EOI runs after 4 segments in real match: 122
+Predicted EOI runs after 5 segments in real match: 136
+Predicted EOI runs after 6 segments in real match: 152
+Predicted EOI runs after 7 segments in real match: 152
+Predicted EOI runs after 8 segments in real match: 195
+team1 actual score 190.0
+Predicted EOI runs after 0 segments in real match: 191
+Predicted EOI runs after 1 segments in real match: 191
+Predicted EOI runs after 2 segments in real match: 191
+Predicted EOI runs after 3 segments in real match: 191
+Predicted EOI runs after 4 segments in real match: 191
+Predicted EOI runs after 5 segments in real match: 191
+Predicted EOI runs after 6 segments in real match: 191
+team2 actual score 194.0
+---------------------------------------------------------------------------------------------------------------------------
+2016-12-29-New Zealand-Bangladesh.txt
+Predicted EOI runs after 0 segments in real match: 248
+Predicted EOI runs after 1 segments in real match: 208
+Predicted EOI runs after 2 segments in real match: 227
+Predicted EOI runs after 3 segments in real match: 175
+Predicted EOI runs after 4 segments in real match: 206
+Predicted EOI runs after 5 segments in real match: 170
+Predicted EOI runs after 6 segments in real match: 235
+Predicted EOI runs after 7 segments in real match: 219
+Predicted EOI runs after 8 segments in real match: 238
+Predicted EOI runs after 9 segments in real match: 242
+team1 actual score 251.0
+Predicted EOI runs after 0 segments in real match: 171
+Predicted EOI runs after 1 segments in real match: 252
+Predicted EOI runs after 2 segments in real match: 252
+Predicted EOI runs after 3 segments in real match: 216
+Predicted EOI runs after 4 segments in real match: 252
+Predicted EOI runs after 5 segments in real match: 244
+Predicted EOI runs after 6 segments in real match: 243
+Predicted EOI runs after 7 segments in real match: 208
+Predicted EOI runs after 8 segments in real match: 205
+team2 actual score 185.0
+---------------------------------------------------------------------------------------------------------------------------
+2016-12-26-New Zealand-Bangladesh.txt
+Predicted EOI runs after 0 segments in real match: 248
+Predicted EOI runs after 1 segments in real match: 255
+Predicted EOI runs after 2 segments in real match: 242
+Predicted EOI runs after 3 segments in real match: 292
+Predicted EOI runs after 4 segments in real match: 246
+Predicted EOI runs after 5 segments in real match: 324
+Predicted EOI runs after 6 segments in real match: 332
+Predicted EOI runs after 7 segments in real match: 280
+Predicted EOI runs after 8 segments in real match: 341
+Predicted EOI runs after 9 segments in real match: 352
+team1 actual score 341.0
+Predicted EOI runs after 0 segments in real match: 171
+Predicted EOI runs after 1 segments in real match: 217
+Predicted EOI runs after 2 segments in real match: 242
+Predicted EOI runs after 3 segments in real match: 220
+Predicted EOI runs after 4 segments in real match: 188
+Predicted EOI runs after 5 segments in real match: 230
+Predicted EOI runs after 6 segments in real match: 244
+Predicted EOI runs after 7 segments in real match: 287
+Predicted EOI runs after 8 segments in real match: 269
+team2 actual score 264.0
+---------------------------------------------------------------------------------------------------------------------------
+2016-10-09-Bangladesh-England.txt
+Predicted EOI runs after 0 segments in real match: 176
+Predicted EOI runs after 1 segments in real match: 244
+Predicted EOI runs after 2 segments in real match: 201
+Predicted EOI runs after 3 segments in real match: 142
+Predicted EOI runs after 4 segments in real match: 212
+Predicted EOI runs after 5 segments in real match: 218
+Predicted EOI runs after 6 segments in real match: 197
+Predicted EOI runs after 7 segments in real match: 173
+Predicted EOI runs after 8 segments in real match: 221
+Predicted EOI runs after 9 segments in real match: 232
+team1 actual score 238.0
+Predicted EOI runs after 0 segments in real match: 233
+Predicted EOI runs after 1 segments in real match: 142
+Predicted EOI runs after 2 segments in real match: 145
+Predicted EOI runs after 3 segments in real match: 174
+Predicted EOI runs after 4 segments in real match: 228
+Predicted EOI runs after 5 segments in real match: 198
+Predicted EOI runs after 6 segments in real match: 168
+Predicted EOI runs after 7 segments in real match: 163
+Predicted EOI runs after 8 segments in real match: 185
+team2 actual score 204.0
+---------------------------------------------------------------------------------------------------------------------------
+2016-10-12-Bangladesh-England.txt
+Predicted EOI runs after 0 segments in real match: 176
+Predicted EOI runs after 1 segments in real match: 258
+Predicted EOI runs after 2 segments in real match: 196
+Predicted EOI runs after 3 segments in real match: 265
+Predicted EOI runs after 4 segments in real match: 282
+Predicted EOI runs after 5 segments in real match: 261
+Predicted EOI runs after 6 segments in real match: 271
+Predicted EOI runs after 7 segments in real match: 278
+Predicted EOI runs after 8 segments in real match: 247
+Predicted EOI runs after 9 segments in real match: 265
+team1 actual score 277.0
+Predicted EOI runs after 0 segments in real match: 241
+Predicted EOI runs after 1 segments in real match: 227
+Predicted EOI runs after 2 segments in real match: 277
+Predicted EOI runs after 3 segments in real match: 264
+Predicted EOI runs after 4 segments in real match: 271
+Predicted EOI runs after 5 segments in real match: 278
+Predicted EOI runs after 6 segments in real match: 262
+Predicted EOI runs after 7 segments in real match: 278
+Predicted EOI runs after 8 segments in real match: 278
+Predicted EOI runs after 9 segments in real match: 277
+team2 actual score 278.0
+---------------------------------------------------------------------------------------------------------------------------
+2017-01-22-Australia-Pakistan.txt
+Predicted EOI runs after 0 segments in real match: 217
+Predicted EOI runs after 1 segments in real match: 281
+Predicted EOI runs after 2 segments in real match: 314
+Predicted EOI runs after 3 segments in real match: 285
+Predicted EOI runs after 4 segments in real match: 290
+Predicted EOI runs after 5 segments in real match: 315
+Predicted EOI runs after 6 segments in real match: 312
+Predicted EOI runs after 7 segments in real match: 316
+Predicted EOI runs after 8 segments in real match: 295
+Predicted EOI runs after 9 segments in real match: 348
+team1 actual score 353.0
+Predicted EOI runs after 0 segments in real match: 188
+Predicted EOI runs after 1 segments in real match: 183
+Predicted EOI runs after 2 segments in real match: 242
+Predicted EOI runs after 3 segments in real match: 252
+Predicted EOI runs after 4 segments in real match: 237
+Predicted EOI runs after 5 segments in real match: 275
+Predicted EOI runs after 6 segments in real match: 298
+Predicted EOI runs after 7 segments in real match: 287
+Predicted EOI runs after 8 segments in real match: 278
+team2 actual score 267.0
+---------------------------------------------------------------------------------------------------------------------------
+2017-01-13-Australia-Pakistan.txt
+Predicted EOI runs after 0 segments in real match: 166
+Predicted EOI runs after 1 segments in real match: 167
+Predicted EOI runs after 2 segments in real match: 230
+Predicted EOI runs after 3 segments in real match: 165
+Predicted EOI runs after 4 segments in real match: 176
+Predicted EOI runs after 5 segments in real match: 226
+Predicted EOI runs after 6 segments in real match: 208
+Predicted EOI runs after 7 segments in real match: 215
+Predicted EOI runs after 8 segments in real match: 215
+Predicted EOI runs after 9 segments in real match: 273
+team1 actual score 268.0
+Predicted EOI runs after 0 segments in real match: 188
+Predicted EOI runs after 1 segments in real match: 260
+Predicted EOI runs after 2 segments in real match: 164
+Predicted EOI runs after 3 segments in real match: 217
+Predicted EOI runs after 4 segments in real match: 223
+Predicted EOI runs after 5 segments in real match: 251
+Predicted EOI runs after 6 segments in real match: 242
+Predicted EOI runs after 7 segments in real match: 181
+Predicted EOI runs after 8 segments in real match: 191
+team2 actual score 176.0
+---------------------------------------------------------------------------------------------------------------------------
+2016-10-12-South Africa-Australia.txt
+Predicted EOI runs after 0 segments in real match: 260
+Predicted EOI runs after 1 segments in real match: 293
+Predicted EOI runs after 2 segments in real match: 198
+Predicted EOI runs after 3 segments in real match: 245
+Predicted EOI runs after 4 segments in real match: 278
+Predicted EOI runs after 5 segments in real match: 273
+Predicted EOI runs after 6 segments in real match: 269
+Predicted EOI runs after 7 segments in real match: 314
+Predicted EOI runs after 8 segments in real match: 317
+Predicted EOI runs after 9 segments in real match: 332
+team1 actual score 327.0
+Predicted EOI runs after 0 segments in real match: 234
+Predicted EOI runs after 1 segments in real match: 194
+Predicted EOI runs after 2 segments in real match: 226
+Predicted EOI runs after 3 segments in real match: 230
+Predicted EOI runs after 4 segments in real match: 196
+Predicted EOI runs after 5 segments in real match: 226
+Predicted EOI runs after 6 segments in real match: 296
+Predicted EOI runs after 7 segments in real match: 322
+Predicted EOI runs after 8 segments in real match: 301
+Predicted EOI runs after 9 segments in real match: 300
+team2 actual score 297.0
+---------------------------------------------------------------------------------------------------------------------------
+2017-01-15-Australia-Pakistan.txt
+Predicted EOI runs after 0 segments in real match: 217
+Predicted EOI runs after 1 segments in real match: 223
+Predicted EOI runs after 2 segments in real match: 144
+Predicted EOI runs after 3 segments in real match: 224
+Predicted EOI runs after 4 segments in real match: 224
+Predicted EOI runs after 5 segments in real match: 223
+Predicted EOI runs after 6 segments in real match: 267
+Predicted EOI runs after 7 segments in real match: 285
+Predicted EOI runs after 8 segments in real match: 231
+Predicted EOI runs after 9 segments in real match: 223
+team1 actual score 220.0
+Predicted EOI runs after 0 segments in real match: 162
+Predicted EOI runs after 1 segments in real match: 166
+Predicted EOI runs after 2 segments in real match: 218
+Predicted EOI runs after 3 segments in real match: 221
+Predicted EOI runs after 4 segments in real match: 221
+Predicted EOI runs after 5 segments in real match: 221
+Predicted EOI runs after 6 segments in real match: 221
+Predicted EOI runs after 7 segments in real match: 221
+Predicted EOI runs after 8 segments in real match: 221
+Predicted EOI runs after 9 segments in real match: 221
+team2 actual score 221.0
+---------------------------------------------------------------------------------------------------------------------------
+2016-10-23-India-New Zealand.txt
+Predicted EOI runs after 0 segments in real match: 203
+Predicted EOI runs after 1 segments in real match: 259
+Predicted EOI runs after 2 segments in real match: 257
+Predicted EOI runs after 3 segments in real match: 302
+Predicted EOI runs after 4 segments in real match: 299
+Predicted EOI runs after 5 segments in real match: 301
+Predicted EOI runs after 6 segments in real match: 292
+Predicted EOI runs after 7 segments in real match: 247
+Predicted EOI runs after 8 segments in real match: 246
+Predicted EOI runs after 9 segments in real match: 274
+team1 actual score 285.0
+Predicted EOI runs after 0 segments in real match: 257
+Predicted EOI runs after 1 segments in real match: 209
+Predicted EOI runs after 2 segments in real match: 258
+Predicted EOI runs after 3 segments in real match: 233
+Predicted EOI runs after 4 segments in real match: 286
+Predicted EOI runs after 5 segments in real match: 266
+Predicted EOI runs after 6 segments in real match: 284
+Predicted EOI runs after 7 segments in real match: 282
+Predicted EOI runs after 8 segments in real match: 284
+Predicted EOI runs after 9 segments in real match: 286
+team2 actual score 289.0
+---------------------------------------------------------------------------------------------------------------------------
+2016-10-20-India-New Zealand.txt
+Predicted EOI runs after 0 segments in real match: 203
+Predicted EOI runs after 1 segments in real match: 178
+Predicted EOI runs after 2 segments in real match: 244
+Predicted EOI runs after 3 segments in real match: 310
+Predicted EOI runs after 4 segments in real match: 316
+Predicted EOI runs after 5 segments in real match: 277
+Predicted EOI runs after 6 segments in real match: 289
+Predicted EOI runs after 7 segments in real match: 277
+Predicted EOI runs after 8 segments in real match: 260
+Predicted EOI runs after 9 segments in real match: 240
+team1 actual score 242.0
+Predicted EOI runs after 0 segments in real match: 243
+Predicted EOI runs after 1 segments in real match: 201
+Predicted EOI runs after 2 segments in real match: 188
+Predicted EOI runs after 3 segments in real match: 208
+Predicted EOI runs after 4 segments in real match: 169
+Predicted EOI runs after 5 segments in real match: 189
+Predicted EOI runs after 6 segments in real match: 243
+Predicted EOI runs after 7 segments in real match: 227
+Predicted EOI runs after 8 segments in real match: 225
+Predicted EOI runs after 9 segments in real match: 225
+team2 actual score 236.0
+---------------------------------------------------------------------------------------------------------------------------
+2017-01-19-Australia-Pakistan.txt
+Predicted EOI runs after 0 segments in real match: 188
+Predicted EOI runs after 1 segments in real match: 235
+Predicted EOI runs after 2 segments in real match: 211
+Predicted EOI runs after 3 segments in real match: 259
+Predicted EOI runs after 4 segments in real match: 237
+Predicted EOI runs after 5 segments in real match: 254
+Predicted EOI runs after 6 segments in real match: 311
+Predicted EOI runs after 7 segments in real match: 291
+Predicted EOI runs after 8 segments in real match: 291
+Predicted EOI runs after 9 segments in real match: 269
+team1 actual score 263.0
+Predicted EOI runs after 0 segments in real match: 217
+Predicted EOI runs after 1 segments in real match: 240
+Predicted EOI runs after 2 segments in real match: 168
+Predicted EOI runs after 3 segments in real match: 220
+Predicted EOI runs after 4 segments in real match: 244
+Predicted EOI runs after 5 segments in real match: 210
+Predicted EOI runs after 6 segments in real match: 264
+Predicted EOI runs after 7 segments in real match: 264
+Predicted EOI runs after 8 segments in real match: 264
+team2 actual score 265.0
+---------------------------------------------------------------------------------------------------------------------------
+2016-12-31-New Zealand-Bangladesh.txt
+Predicted EOI runs after 0 segments in real match: 171
+Predicted EOI runs after 1 segments in real match: 269
+Predicted EOI runs after 2 segments in real match: 287
+Predicted EOI runs after 3 segments in real match: 284
+Predicted EOI runs after 4 segments in real match: 250
+Predicted EOI runs after 5 segments in real match: 288
+Predicted EOI runs after 6 segments in real match: 247
+Predicted EOI runs after 7 segments in real match: 252
+Predicted EOI runs after 8 segments in real match: 249
+Predicted EOI runs after 9 segments in real match: 240
+team1 actual score 236.0
+Predicted EOI runs after 0 segments in real match: 237
+Predicted EOI runs after 1 segments in real match: 210
+Predicted EOI runs after 2 segments in real match: 234
+Predicted EOI runs after 3 segments in real match: 237
+Predicted EOI runs after 4 segments in real match: 237
+Predicted EOI runs after 5 segments in real match: 237
+Predicted EOI runs after 6 segments in real match: 237
+Predicted EOI runs after 7 segments in real match: 237
+Predicted EOI runs after 8 segments in real match: 237
+team2 actual score 239.0
+---------------------------------------------------------------------------------------------------------------------------
+2017-01-26-Australia-Pakistan.txt
+Predicted EOI runs after 0 segments in real match: 210
+Predicted EOI runs after 1 segments in real match: 215
+Predicted EOI runs after 2 segments in real match: 299
+Predicted EOI runs after 3 segments in real match: 263
+Predicted EOI runs after 4 segments in real match: 321
+Predicted EOI runs after 5 segments in real match: 323
+Predicted EOI runs after 6 segments in real match: 324
+Predicted EOI runs after 7 segments in real match: 379
+Predicted EOI runs after 8 segments in real match: 332
+Predicted EOI runs after 9 segments in real match: 394
+team1 actual score 369.0
+Predicted EOI runs after 0 segments in real match: 162
+Predicted EOI runs after 1 segments in real match: 206
+Predicted EOI runs after 2 segments in real match: 250
+Predicted EOI runs after 3 segments in real match: 307
+Predicted EOI runs after 4 segments in real match: 307
+Predicted EOI runs after 5 segments in real match: 305
+Predicted EOI runs after 6 segments in real match: 259
+Predicted EOI runs after 7 segments in real match: 265
+Predicted EOI runs after 8 segments in real match: 316
+Predicted EOI runs after 9 segments in real match: 318
+team2 actual score 313.0
+---------------------------------------------------------------------------------------------------------------------------
+2016-11-16-Sri Lanka-West Indies.txt
+Predicted EOI runs after 0 segments in real match: 219
+Predicted EOI runs after 1 segments in real match: 211
+Predicted EOI runs after 2 segments in real match: 107
+Predicted EOI runs after 3 segments in real match: 151
+Predicted EOI runs after 4 segments in real match: 188
+Predicted EOI runs after 5 segments in real match: 189
+Predicted EOI runs after 6 segments in real match: 211
+Predicted EOI runs after 7 segments in real match: 212
+Predicted EOI runs after 8 segments in real match: 218
+Predicted EOI runs after 9 segments in real match: 240
+team1 actual score 227.0
+Predicted EOI runs after 0 segments in real match: 228
+Predicted EOI runs after 1 segments in real match: 175
+Predicted EOI runs after 2 segments in real match: 177
+Predicted EOI runs after 3 segments in real match: 199
+Predicted EOI runs after 4 segments in real match: 144
+Predicted EOI runs after 5 segments in real match: 145
+Predicted EOI runs after 6 segments in real match: 159
+Predicted EOI runs after 7 segments in real match: 168
+Predicted EOI runs after 8 segments in real match: 172
+team2 actual score 165.0
+---------------------------------------------------------------------------------------------------------------------------
+2016-12-04-Australia-New Zealand.txt
+Predicted EOI runs after 0 segments in real match: 202
+Predicted EOI runs after 1 segments in real match: 216
+Predicted EOI runs after 2 segments in real match: 194
+Predicted EOI runs after 3 segments in real match: 221
+Predicted EOI runs after 4 segments in real match: 250
+Predicted EOI runs after 5 segments in real match: 243
+Predicted EOI runs after 6 segments in real match: 259
+Predicted EOI runs after 7 segments in real match: 289
+Predicted EOI runs after 8 segments in real match: 283
+Predicted EOI runs after 9 segments in real match: 322
+team1 actual score 324.0
+Predicted EOI runs after 0 segments in real match: 217
+Predicted EOI runs after 1 segments in real match: 220
+Predicted EOI runs after 2 segments in real match: 187
+Predicted EOI runs after 3 segments in real match: 261
+Predicted EOI runs after 4 segments in real match: 318
+Predicted EOI runs after 5 segments in real match: 251
+Predicted EOI runs after 6 segments in real match: 259
+Predicted EOI runs after 7 segments in real match: 255
+Predicted EOI runs after 8 segments in real match: 252
+team2 actual score 256.0
+---------------------------------------------------------------------------------------------------------------------------
+2017-01-19-India-England.txt
+Predicted EOI runs after 0 segments in real match: 228
+Predicted EOI runs after 1 segments in real match: 162
+Predicted EOI runs after 2 segments in real match: 196
+Predicted EOI runs after 3 segments in real match: 202
+Predicted EOI runs after 4 segments in real match: 210
+Predicted EOI runs after 5 segments in real match: 262
+Predicted EOI runs after 6 segments in real match: 268
+Predicted EOI runs after 7 segments in real match: 319
+Predicted EOI runs after 8 segments in real match: 322
+Predicted EOI runs after 9 segments in real match: 351
+team1 actual score 381.0
+Predicted EOI runs after 0 segments in real match: 199
+Predicted EOI runs after 1 segments in real match: 244
+Predicted EOI runs after 2 segments in real match: 246
+Predicted EOI runs after 3 segments in real match: 286
+Predicted EOI runs after 4 segments in real match: 320
+Predicted EOI runs after 5 segments in real match: 308
+Predicted EOI runs after 6 segments in real match: 268
+Predicted EOI runs after 7 segments in real match: 356
+Predicted EOI runs after 8 segments in real match: 333
+Predicted EOI runs after 9 segments in real match: 333
+team2 actual score 366.0
+---------------------------------------------------------------------------------------------------------------------------
+2016-10-29-India-New Zealand.txt
+Predicted EOI runs after 0 segments in real match: 257
+Predicted EOI runs after 1 segments in real match: 263
+Predicted EOI runs after 2 segments in real match: 213
+Predicted EOI runs after 3 segments in real match: 295
+Predicted EOI runs after 4 segments in real match: 281
+Predicted EOI runs after 5 segments in real match: 262
+Predicted EOI runs after 6 segments in real match: 289
+Predicted EOI runs after 7 segments in real match: 295
+Predicted EOI runs after 8 segments in real match: 272
+Predicted EOI runs after 9 segments in real match: 272
+team1 actual score 269.0
+Predicted EOI runs after 0 segments in real match: 203
+Predicted EOI runs after 1 segments in real match: 217
+Predicted EOI runs after 2 segments in real match: 203
+Predicted EOI runs after 3 segments in real match: 211
+Predicted EOI runs after 4 segments in real match: 97
+team2 actual score 79.0
+---------------------------------------------------------------------------------------------------------------------------
+2016-12-06-Australia-New Zealand.txt
+Predicted EOI runs after 0 segments in real match: 202
+Predicted EOI runs after 1 segments in real match: 220
+Predicted EOI runs after 2 segments in real match: 295
+Predicted EOI runs after 3 segments in real match: 248
+Predicted EOI runs after 4 segments in real match: 264
+Predicted EOI runs after 5 segments in real match: 286
+Predicted EOI runs after 6 segments in real match: 306
+Predicted EOI runs after 7 segments in real match: 316
+Predicted EOI runs after 8 segments in real match: 335
+Predicted EOI runs after 9 segments in real match: 380
+team1 actual score 378.0
+Predicted EOI runs after 0 segments in real match: 217
+Predicted EOI runs after 1 segments in real match: 224
+Predicted EOI runs after 2 segments in real match: 218
+Predicted EOI runs after 3 segments in real match: 247
+Predicted EOI runs after 4 segments in real match: 276
+Predicted EOI runs after 5 segments in real match: 279
+Predicted EOI runs after 6 segments in real match: 337
+Predicted EOI runs after 7 segments in real match: 243
+Predicted EOI runs after 8 segments in real match: 265
+Predicted EOI runs after 9 segments in real match: 290
+team2 actual score 262.0
+---------------------------------------------------------------------------------------------------------------------------
+2016-10-09-South Africa-Australia.txt
+Predicted EOI runs after 0 segments in real match: 234
+Predicted EOI runs after 1 segments in real match: 166
+Predicted EOI runs after 2 segments in real match: 188
+Predicted EOI runs after 3 segments in real match: 114
+Predicted EOI runs after 4 segments in real match: 164
+Predicted EOI runs after 5 segments in real match: 174
+Predicted EOI runs after 6 segments in real match: 144
+Predicted EOI runs after 7 segments in real match: 176
+team1 actual score 167.0
+Predicted EOI runs after 0 segments in real match: 168
+Predicted EOI runs after 1 segments in real match: 168
+Predicted EOI runs after 2 segments in real match: 168
+Predicted EOI runs after 3 segments in real match: 168
+Predicted EOI runs after 4 segments in real match: 168
+Predicted EOI runs after 5 segments in real match: 168
+Predicted EOI runs after 6 segments in real match: 168
+Predicted EOI runs after 7 segments in real match: 168
+team2 actual score 168.0
+---------------------------------------------------------------------------------------------------------------------------
+2016-12-09-Australia-New Zealand.txt
+Predicted EOI runs after 0 segments in real match: 202
+Predicted EOI runs after 1 segments in real match: 218
+Predicted EOI runs after 2 segments in real match: 182
+Predicted EOI runs after 3 segments in real match: 201
+Predicted EOI runs after 4 segments in real match: 192
+Predicted EOI runs after 5 segments in real match: 200
+Predicted EOI runs after 6 segments in real match: 243
+Predicted EOI runs after 7 segments in real match: 243
+Predicted EOI runs after 8 segments in real match: 255
+Predicted EOI runs after 9 segments in real match: 266
+team1 actual score 264.0
+Predicted EOI runs after 0 segments in real match: 217
+Predicted EOI runs after 1 segments in real match: 265
+Predicted EOI runs after 2 segments in real match: 258
+Predicted EOI runs after 3 segments in real match: 169
+Predicted EOI runs after 4 segments in real match: 201
+Predicted EOI runs after 5 segments in real match: 162
+Predicted EOI runs after 6 segments in real match: 176
+Predicted EOI runs after 7 segments in real match: 166
+team2 actual score 147.0
+---------------------------------------------------------------------------------------------------------------------------
+2017-01-22-India-England.txt
+Predicted EOI runs after 0 segments in real match: 251
+Predicted EOI runs after 1 segments in real match: 196
+Predicted EOI runs after 2 segments in real match: 305
+Predicted EOI runs after 3 segments in real match: 321
+Predicted EOI runs after 4 segments in real match: 257
+Predicted EOI runs after 5 segments in real match: 285
+Predicted EOI runs after 6 segments in real match: 304
+Predicted EOI runs after 7 segments in real match: 317
+Predicted EOI runs after 8 segments in real match: 252
+Predicted EOI runs after 9 segments in real match: 308
+team1 actual score 321.0
+Predicted EOI runs after 0 segments in real match: 170
+Predicted EOI runs after 1 segments in real match: 209
+Predicted EOI runs after 2 segments in real match: 197
+Predicted EOI runs after 3 segments in real match: 211
+Predicted EOI runs after 4 segments in real match: 215
+Predicted EOI runs after 5 segments in real match: 288
+Predicted EOI runs after 6 segments in real match: 254
+Predicted EOI runs after 7 segments in real match: 260
+Predicted EOI runs after 8 segments in real match: 284
+Predicted EOI runs after 9 segments in real match: 311
+team2 actual score 316.0
+---------------------------------------------------------------------------------------------------------------------------
+2016-11-23-Sri Lanka-West Indies.txt
+Predicted EOI runs after 0 segments in real match: 248
+Predicted EOI runs after 1 segments in real match: 171
+Predicted EOI runs after 2 segments in real match: 242
+Predicted EOI runs after 3 segments in real match: 301
+Predicted EOI runs after 4 segments in real match: 316
+Predicted EOI runs after 5 segments in real match: 328
+Predicted EOI runs after 6 segments in real match: 309
+Predicted EOI runs after 7 segments in real match: 274
+Predicted EOI runs after 8 segments in real match: 344
+Predicted EOI runs after 9 segments in real match: 345
+team1 actual score 330.0
+Predicted EOI runs after 0 segments in real match: 161
+Predicted EOI runs after 1 segments in real match: 205
+Predicted EOI runs after 2 segments in real match: 228
+Predicted EOI runs after 3 segments in real match: 236
+Predicted EOI runs after 4 segments in real match: 331
+Predicted EOI runs after 5 segments in real match: 274
+Predicted EOI runs after 6 segments in real match: 327
+Predicted EOI runs after 7 segments in real match: 327
+Predicted EOI runs after 8 segments in real match: 331
+Predicted EOI runs after 9 segments in real match: 316
+team2 actual score 330.0
+---------------------------------------------------------------------------------------------------------------------------
+2017-01-15-India-England.txt
+Predicted EOI runs after 0 segments in real match: 199
+Predicted EOI runs after 1 segments in real match: 258
+Predicted EOI runs after 2 segments in real match: 279
+Predicted EOI runs after 3 segments in real match: 264
+Predicted EOI runs after 4 segments in real match: 319
+Predicted EOI runs after 5 segments in real match: 320
+Predicted EOI runs after 6 segments in real match: 327
+Predicted EOI runs after 7 segments in real match: 304
+Predicted EOI runs after 8 segments in real match: 298
+Predicted EOI runs after 9 segments in real match: 339
+team1 actual score 350.0
+Predicted EOI runs after 0 segments in real match: 164
+Predicted EOI runs after 1 segments in real match: 164
+Predicted EOI runs after 2 segments in real match: 210
+Predicted EOI runs after 3 segments in real match: 245
+Predicted EOI runs after 4 segments in real match: 231
+Predicted EOI runs after 5 segments in real match: 259
+Predicted EOI runs after 6 segments in real match: 271
+Predicted EOI runs after 7 segments in real match: 332
+Predicted EOI runs after 8 segments in real match: 351
+Predicted EOI runs after 9 segments in real match: 351
+team2 actual score 356.0
+---------------------------------------------------------------------------------------------------------------------------
+
